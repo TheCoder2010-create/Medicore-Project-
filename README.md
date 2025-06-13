@@ -191,6 +191,8 @@ npm run test
 ```bash
 python -m pytest
 ```
+![page 21](https://github.com/user-attachments/assets/662f3445-9bf0-4bda-90fd-a5ef7791dfcd)
+![page 1](https://github.com/user-attachments/assets/343616ec-4d82-492e-8d68-cfd4a51f2213)
 
 ## 🚀 Deployment
 
